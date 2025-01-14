@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
-
+      - run: npm run build
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
@@ -30,3 +30,4 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+
