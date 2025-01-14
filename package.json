@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-webview-cache-extended",
-  "version": "3.0.3",
+  "version": "3.0.0",
   "description": "Clears Android WebView cache",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
