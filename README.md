@@ -9,7 +9,7 @@ The plugin calls the native `WebView.clearCache(true)` method that clears the ca
 ## Install
 
 ```
-npm install capacitor-plugin-webview-cache
+npm install capacitor-plugin-webview-cache-extended
 npx cap sync
 ```
 

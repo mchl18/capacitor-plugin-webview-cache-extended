@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-plugin-webview-cache",
+  "name": "capacitor-plugin-webview-cache-extended",
   "version": "3.0.0",
   "description": "Clears Android WebView cache",
   "main": "dist/plugin.cjs.js",
@@ -16,10 +16,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrameworkSystemsGmbH/capacitor-plugin-webview-cache.git"
+    "url": "git+https://github.com/mchl18/capacitor-plugin-webview-cache-extended.git"
   },
   "bugs": {
-    "url": "https://github.com/FrameworkSystemsGmbH/capacitor-plugin-webview-cache/issues"
+    "url": "https://github.com/mchl18/capacitor-plugin-webview-cache-extended/issues"
   },
   "keywords": [
     "capacitor",
