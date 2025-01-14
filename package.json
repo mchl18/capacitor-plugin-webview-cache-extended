@@ -12,7 +12,7 @@
     "android/build.gradle",
     "dist/"
   ],
-  "author": "Framework Systems GmbH",
+  "author": "Michael Gerullis",
   "license": "MIT",
   "repository": {
     "type": "git",
